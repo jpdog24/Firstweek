@@ -1,0 +1,29 @@
+section{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    border-style: solid;
+    background-color:rgba(12, 209, 127, 0.884);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 3em;
+}
+body{
+    text-align: center;
+    background-color: rgb(255, 64, 30);
+}
+ul{
+    display: inline;
+    text-align: center;
+    align-items: center;
+    margin-right: 30px;
+}
+.facts{
+    display: flex;
+    margin-bottom: 20px;
+}
+img{
+    max-height: 250px;
+    margin-top: 20px;
+    border-style: solid
+}
